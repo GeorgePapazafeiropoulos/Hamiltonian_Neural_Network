@@ -3,7 +3,7 @@
 <img src="Hamiltonian_FF_BP_ANN.png">
 
 This MATLAB script demonstrates a simple implementation of a Hamiltonian
-Neural Net-work (HNN) trained using the backpropagation algorithm.
+Neural Network (HNN) trained using the backpropagation algorithm.
 Hamiltonian Neural Networks enable the use of Neural Networks under the
 law of conservation of energy or other invariants. In this code, the task
 of modeling the dynamics of the frictionless mass-spring system ("Task 1:
