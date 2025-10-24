@@ -1,5 +1,7 @@
 # Hamiltonian Neural Network
 
+<img src="Hamiltonian_FF_BP_ANN.png">
+
 This MATLAB script demonstrates a simple implementation of a Hamiltonian
 Neural Net-work (HNN) trained using the backpropagation algorithm.
 Hamiltonian Neural Networks enable the use of Neural Networks under the
@@ -31,7 +33,6 @@ generality, the random number generator is appropriately initialized at
 the be-ginning of the code. If this option is removed, consider running
 the example a few times and compare the average outcome.
 
-This code is licensed under <https://creativecommons.org/licenses/by/4.0/
-CC BY 4.0>. This license allows reusers to distribute, remix, adapt, and
+This code is licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). This license allows reusers to distribute, remix, adapt, and
 build upon the material in any medium or format, even for commercial
 purposes. It requires that reusers give credit to the creator.
